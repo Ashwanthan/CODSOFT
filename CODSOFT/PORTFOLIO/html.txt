@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Your Name - Personal Portfolio</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Ashwanthan</h1>
+		<p>Web Developer & Designer</p>
+	</header>
+	<main>
+		<section id="about">
+			<img src="https://lh3.googleusercontent.com/fife/ALs6j_HAcEjhM1-ktdG_xjFDbSCTTkh4or6WHuswoD__IjZ7IwuHC1BoEw4uDwfe-W_1S3RTwDgi0ubUD9saHAjLhBwB2jpgI_oypF3e4Tfq5dIEK2cqaAJQbVfQE29SUsLZH5DCsuz-8Ri4yS-9rJYcg1sfwL52yZWXii-RZ1qUIXz0g3i92hq8rNIhiG3z7ne3VP-VvRd46rjYEpA7GRBYQcO1slosCPngpdUqF-xemsOBDrIUc3Du5GtdqDxToUp0oPW0ILpC2FWtA1NTl6DXqWfSLs3GI3sd6PMLxl0_l3BTPR2jba6egw-HUDyIAeMp2Ftj7qOyHf5E5ogwuMuO1hAh2h4eMmqJJSeE0ZdM_FTTQedGmAou1-uvhdx1JRdulxNtkeTs3QynUpXJX6xWrMZXg_xa9-P4gMGxxaa9SvJcdqJZ58bueJEBWBCvfTWmXN933ZJwtyN1qXl6U5ZVyVbQohOLGgiCFUPiSycJoemYOAKjqOvp0nRVq54Ddpf-suCnYZI14P9qkea65wRw7Af5YpTO2SncDp2-LuvKCghwtnU_MbTrsGUSKYxK7s4zXn3y60dZ0ml4FsmcgyBRDPM_xhWX-lNrqdJwS0xfPVF7myCWZ3PlqD2ZSKYE6wazJoj7zVnpD8RCYNARDznt4AtRiCqMENcAn0rh1WeB1R0GQfECCJL2ol1ks2m1ssDF1qj1jsHJ2KWcqDK_iAOIbRJjViWRyWKFJfiJYTqEcjk2f1pnsSTuvVrA8D0FRaColeObK1i0Xp-pxf0ICshsJRQeIU88x90i-5djM8NzI3M2liknUKvgJO7KBVXlUVPwW0uMNQ3HkaEVNqLSm6zAUsSnHVDpPCmC9WaIvNcOuquPmYyON8JcNw5I7CmzEilZkf5LeUvzdKS_98JsCzTQYLQGLvx_yhkSQ85KtthXK-mmsjr-DFNSE46o5TWRZEduxQeAg8tsyNcMGuDQDwMtFhLkDJqODDf3dGAvV_thwdpytRW3Ax0nPvyDePHIk9Qz7faLHlhVt9SOYMhoHdC_FN5ook0fH1Zv9oyV5YNZ0oo9BBDSirJD3irwSOOvBx8ns5pDZwyJFG3gxUatmO0MQZjevHNTzBkQTnNJgKbUAoWG48j8DR0D9miQEz_be5M9G10JvjuxIXa9sQXvdFO72zRQ3eq0aWyZZib2=s1280-w1280-h1001-n-k?authuser=0&cs=1&hl=en-IN.jpg" alt="Your Image">
+			<h2> About</h2>
+			<p> Innovative problem solver and forward-thinking professional with 5+ years of experience driving growth, improving efficiency. Passionate about leveraging technology, creativity, and collaboration to achieve success and make a meaningful impact.
+
+			</p>
+		</section>
+		<section id="skills">
+			<h2>Skills</h2>
+			<ul>
+				<li>HTML</li>
+				<li>CSS</li>
+				<li>JavaScript</li>
+				<li>UI/UX Design</li>
+			</ul>
+		</section>
+		<section id="projects">
+			<h2>Projects</h2>
+			<div class="project">
+				<h3>Solar Power Bus stop</h3>
+				<p>Introducing the future of sustainable transportation infrastructure - our solar-powered bus stand, harnessing the power of the sun to connect our community while reducing our carbon footprint!</p>
+				<img src="https://3.imimg.com/data3/AE/KK/MY-10163550/solar-bus-shelter-1000x1000.jpg" alt="Project 1 Image">
+			</div>
+			<div class="project">
+				<h3>Smart irrigation system</h3>
+				<p> Revolutionizing the way we nurture our crops and conserve our resources, our smart irrigation system uses cutting-edge technology to optimize water usage, ensuring a greener future for generations to come!</p>
+				<img src="https://media.licdn.com/dms/image/D4D12AQHl_5WXV-jvDg/article-cover_image-shrink_600_2000/0/1700289910929?e=2147483647&v=beta&t=67Xsj3MD0DO5Rpu0cJWKvublzpsaE81t8GPAqLdjOgQ" alt="Project 2 Image">
+			</div>
+		</section>
+		<section id="resume">
+			<h2>Resume</h2>
+			<a href="resume.html" download>Download Resume</a>
+		</section>
+		<section id="contact">
+			<h2>Contact</h2>
+			<p>Get in touch with me:</p>
+			<ul>
+				<li><a href="mailto:your-email@example.com">mashwanthan@gmail.com</a></li>
+				<li><a href="tel:your-phone-number">(124)125-7865</a></li>
+			</ul>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2024 Ashwanthan.All rights reserved
+
+        </p>
+	</footer>
+</body>
+</html>

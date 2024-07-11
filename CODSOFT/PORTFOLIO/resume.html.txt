@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Resume</title>
+	<link rel="stylesheet" href="resume style.css">
+</head>
+<body>
+	<div class="resume-container">
+		<div class="resume-header">
+			<h1>Ashwanthan</h1>
+			<h2>Web Developer & Designer</h2>
+		</div>
+		<div class="resume-body">
+			<section class="summary">
+				<h3>Summary</h3>
+				<p>Highly motivated and experienced professional with a proven track record of delivering innovative solutions, improving processes, and driving success.</p>
+			</section>
+			<section class="work-experience">
+				<h3>Work Experience</h3>
+				<ul>
+					<li>
+						<h4>Web Developer, ABC Company</h4>
+						<p>January 2024 - Present</p>
+						<ul>
+							<li>Developed and maintained multiple websites using HTML, CSS, and JavaScript</li>
+							<li>Collaborated with designers to implement responsive designs</li>
+						</ul>
+					</li>
+					<li>
+						<h4>UI/UX Designer, DEF Agency</h4>
+						<p>June 2022 - December 2023</p>
+						<ul>
+							<li>Designed and prototyped multiple websites and applications using Sketch and Figma</li>
+							<li>Collaborated with developers to implement designs</li>
+						</ul>
+					</li>
+				</ul>
+			</section>
+			<section class="education">
+				<h3>Education</h3>
+				<ul>
+					<li>
+						<h4>Bachelor of Electical and Electronic Engineering, RMK Engineering</h4>
+						<p>2022-2026</p>
+					</li>
+				</ul>
+			</section>
+			<section class="skills">
+				<h3>Skills</h3>
+				<ul>
+					<li>HTML</li>
+					<li>CSS</li>
+					<li>JavaScript</li>
+					<li>UI/UX Design</li>
+				</ul>
+			</section>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,103 @@
+/* Global Styles */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 1;
+}
+
+body {
+  font-family: calibri, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background: #fffefe;
+}
+Home Page img {
+	width: 50%;
+	height: 200px;
+	object-fit: cover;
+	margin-bottom: 10px;
+}
+
+/* Header Styles */
+
+header {
+  background: #f1eeee;
+  padding: 2rem;
+  text-align: center;
+  color: #070606;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+/* Section Styles */
+
+section {
+  padding: 2rem;
+  margin: 2rem 0;
+  background: #fff;
+  text-align: center;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* Button Styles */
+
+button {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+button:hover {
+  background: #0069d9;
+}
+
+/* Footer Styles */
+
+footer {
+  background: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  clear: both;
+}
+
+/* Responsive Styles */
+
+@media (max-width: 768px) {
+  section {
+    padding: 1rem;
+  }
+  button {
+    padding: 0.5rem 1rem;
+  }
+}
+
+/* Utility Styles */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.text-center {
+  text-align: center;
+}
